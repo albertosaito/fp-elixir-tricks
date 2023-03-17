@@ -1,4 +1,4 @@
-## Curry in Elixir
+## Curry in Elixir Basics
 
 Currying is a concept that originates from functional programming, where a function that takes multiple arguments is transformed into a series of functions that each take a single argument. Elixir, being a functional programming language, supports currying through the use of anonymous functions and function composition.
 
