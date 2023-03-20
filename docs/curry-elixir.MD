@@ -34,3 +34,4 @@ In this example, we define two functions double and inc that each take a single 
 ```
 
 Overall, currying can be a powerful tool in functional programming, allowing for more flexible and reusable code. Elixir's support for anonymous functions and function composition make it a great language for exploring this concept.
+
